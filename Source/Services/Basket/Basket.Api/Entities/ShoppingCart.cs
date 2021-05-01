@@ -30,4 +30,3 @@ namespace Basket.Api.Entities
         }
     }
 }
-}
